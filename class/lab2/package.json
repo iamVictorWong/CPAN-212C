@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.5"
+  },
+  "name": "lab2",
+  "version": "1.0.0",
+  "main": "Express.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Express.js",
+    "dev": "nodemon Express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
